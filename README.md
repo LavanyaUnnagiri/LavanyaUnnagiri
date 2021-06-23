@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Doctor Patient Portal**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Data Science using Python**
 
 - 📫 How to reach me **lavanyaunnagiri@gmail.com**
 
