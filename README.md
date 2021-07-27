@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LavanyaUnnagiri</h1>
-<h3 align="center">I'm a second year IT student.</h3>
+<h3 align="center">I'm a second year IT student at VVIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanyaunnagiri&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyaunnagiri" /> </p>
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/unnagiri lavanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnagiri lavanya" height="30" width="40" /></a>
 <a href="https://instagram.com/lavanya_chowdarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavanya_chowdarii" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lavanyaunnagiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lavanyaunnagiri" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
