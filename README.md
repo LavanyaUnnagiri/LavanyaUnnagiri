@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LavanyaUnnagiri</h1>
-<h3 align="center">I'm a second year IT student at VVIT</h3>
+<h3 align="center">I'm a third year IT student at VVIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanyaunnagiri&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyaunnagiri" /> </p>
 
